@@ -37,7 +37,7 @@ export default function EmpresasPage() {
               <p className="text-lg mb-4">
                 Nuestras cabinas utilizan tecnología cuántica avanzada para
                 reducir el estrés, mejorar la concentración y aumentar los
-                niveles de energía de tus empleados, todo en sesiones de tan
+                niveles de energía de tus empleados, todo en sesiones de hasta
                 solo 30 minutos.
               </p>
               <p className="text-lg">
@@ -160,7 +160,7 @@ export default function EmpresasPage() {
                   </li>
                   <li className="flex items-start gap-3">
                     <Check className="h-5 w-5 text-[#39a6cf] mt-0.5" />
-                    <span>Sesiones de 30 minutos</span>
+                    <span>Sesiones de 4 hasta 30 minutos</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <Check className="h-5 w-5 text-[#39a6cf] mt-0.5" />
@@ -198,7 +198,7 @@ export default function EmpresasPage() {
                   </li>
                   <li className="flex items-start gap-3">
                     <Check className="h-5 w-5 text-[#39a6cf] mt-0.5" />
-                    <span>Sesiones de 30 minutos</span>
+                    <span>Sesiones de 4 hasta 30 minutos</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <Check className="h-5 w-5 text-[#39a6cf] mt-0.5" />
@@ -240,7 +240,7 @@ export default function EmpresasPage() {
                   </li>
                   <li className="flex items-start gap-3">
                     <Check className="h-5 w-5 text-[#39a6cf] mt-0.5" />
-                    <span>Sesiones de 30 minutos</span>
+                    <span>Sesiones de 4 hasta 30 minutos</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <Check className="h-5 w-5 text-[#39a6cf] mt-0.5" />
